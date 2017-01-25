@@ -7,6 +7,7 @@
 #include "miscFunctions.h"
 
 uint8_t globalHeader[24];
+//Testting for commit
 
 int main(int argc, char **argv)
 {
